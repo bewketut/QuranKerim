@@ -1,8 +1,10 @@
 #Qura'an Kerim
 
-Download: https://raw.githubusercontent.com/bewketut/QuraanKerim/master/myquran00.pdf
+Download: https://raw.githubusercontent.com/bewketut/QuraanKerim/master/myquran00.pdf or https://yadi.sk/i/R8BjgiWUfJjSa
 
 2: Arabic-main: https://yadi.sk/i/2rySVzBI3J7AV5
+
+Src: https://yadi.sk/d/ONFLCVkU3JyRM6
  
 TODO: border art using tikz<br/>
 The main LaTeX package used here (You can see myquran00.tex for reference) is polyglossia.
