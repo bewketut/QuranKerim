@@ -1,7 +1,7 @@
 #Qura'an Kerim
 
 **Rule 1:**
-Surah 1 is dua and cannot/shouldn't be compiled *without* Surah 2. The two make the main body.
+Surah 1 is dua/supplication is to be compiled at least with Surah 2. The two make the main body.
 Then you can proceed further.
 
 Download: https://raw.githubusercontent.com/bewketut/QuraanKerim/master/myquran00.pdf or https://yadi.sk/i/R8BjgiWUfJjSa
