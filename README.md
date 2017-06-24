@@ -20,4 +20,8 @@ Using the main.tex (or myquran00.tex) one can modify the document to output into
 
 ##OBJECTIVE
 
-This is so that people can have their own offline use and is to decrease the use of Internet and its related current problems. One can write a facebook comment but cannot help himself write a single aya on his computer that he can later use. HUMANS ARE NOT KHALIDIN. 
+This is so that people can have their own offline use and is to decrease the use of Internet and its related current problems. One can write a facebook comment but cannot help himself write a single aya on his computer that he can later use. HUMANS ARE NOT KHALIDIN. They last.
+##EMAIL CONTRIBUTION:
+bewketut@gmail.com
+
+--Bilal/Bewket
