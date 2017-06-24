@@ -9,6 +9,8 @@ Download: https://raw.githubusercontent.com/bewketut/QuraanKerim/master/myquran0
 2: Arabic-main: https://yadi.sk/i/2rySVzBI3J7AV5
 
 Src: https://yadi.sk/d/ONFLCVkU3JyRM6
+
+**To print one surah alone use before sections \setcounter{secnumdepth}{surahnumber}**
 TODO: border art using tikz<br/>
 The main LaTeX package used here (You can see myquran00.tex for reference) is polyglossia.
 Using the main.tex (or myquran00.tex) one can modify the document to output into a different language setup.  
