@@ -18,4 +18,6 @@ Using the main.tex (or myquran00.tex) one can modify the document to output into
 2. Make sure you select the font of choice on main.tex (or myquran00.tex);<br/>
 3. Run <it>xelatex main.tex </it> (or myquran00.tex) 
 
+##OBJECTIVE
 
+This is so that people can have their own offline use and is to decrease the use of Internet and its related current problems. One can write a facebook comment but cannot help himself write a single aya on his computer that he can later use. HUMANS ARE NOT KHALIDIN. 
