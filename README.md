@@ -3,11 +3,9 @@
 **Rule 1:**
 Surah 1 is du'aa shouldn't/cannot be put/compiled *without* Surah 2. The two make the main body.
 Then you can proceed further.
-
-(xe)Latex install: windows (http://miktex.org) linux (http://latex.org\\ 
-Download: 
-https://raw.githubusercontent.com/bewketut/QuraanKerim/master/myquran00.pdf or https://yadi.sk/i/R8BjgiWUfJjSa
-
+(xe)Latex install: windows (http://miktex.org) linux (http://latex.org)
+ 
+Download: https://yadi.sk/i/R8BjgiWUfJjSa or 
 2: Arabic-main: https://yadi.sk/i/2rySVzBI3J7AV5
 
 Src: https://yadi.sk/d/ONFLCVkU3JyRM6
