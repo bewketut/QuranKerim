@@ -6,7 +6,7 @@ Then you can proceed further.
 (xe)Latex install: windows (http://miktex.org) linux (http://latex.org)
  
 Download: https://yadi.sk/i/R8BjgiWUfJjSa or 
-2: Arabic-main: https://yadi.sk/i/apfq39Gj3KRfLk 
+2: Arabic-main: https://yadi.sk/i/T4hgzFBU3KRxmz 
 
 Src: https://yadi.sk/d/ONFLCVkU3JyRM6
 
