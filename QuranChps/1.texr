@@ -1,0 +1,21 @@
+%% License: BSD style (Berkley) (i.e. Put the Copyright owner's name always)
+%% Writer and Copyright (to): Bewketu(Bilal) Tadilo (2016-17)
+\shadowbox{\section{\LR{\textamharic{ሱራቱ አልፈቲሃ -}  \RL{سوره  الفاتحة}}}}
+\begin{longtable}{%
+  @{}
+    p{.5\textwidth}
+  @{~~~~~~~~~~~~~}||
+    p{.5\textwidth}
+    @{}
+}
+\nopagebreak
+%\textamh{\ \ \ \ \ \  ቢስሚላሂ አራህመኒ ራሂይም } &  بِسمِ ٱللَّهِ ٱلرَّحمَـٰنِ ٱلرَّحِيمِ\\
+\textamh{1.\  } & بِسمِ ٱللَّهِ ٱلرَّحمَـٰنِ ٱلرَّحِيمِ ﴿١﴾\\
+\textamh{2.\  } & ٱلحَمدُ لِلَّهِ رَبِّ ٱلعَـٰلَمِينَ ﴿٢﴾\\
+\textamh{3.\  } & ٱلرَّحمَـٰنِ ٱلرَّحِيمِ ﴿٣﴾\\
+\textamh{4.\  } & مَـٰلِكِ يَومِ ٱلدِّينِ ﴿٤﴾\\
+\textamh{5.\  } & إِيَّاكَ نَعبُدُ وَإِيَّاكَ نَستَعِينُ ﴿٥﴾\\
+\textamh{6.\  } & ٱهدِنَا ٱلصِّرَٰطَ ٱلمُستَقِيمَ ﴿٦﴾\\
+\textamh{7.\  } & صِرَٰطَ ٱلَّذِينَ أَنعَمتَ عَلَيهِم غَيرِ ٱلمَغضُوبِ عَلَيهِم وَلَا ٱلضَّآلِّينَ ﴿٧﴾\\
+\end{longtable} \newpage
+

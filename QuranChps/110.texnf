@@ -1,0 +1,16 @@
+%% License: BSD style (Berkley) (i.e. Put the Copyright owner's name always)
+%% Writer and Copyright (to): Bewketu(Bilal) Tadilo (2016-17)
+\shadowbox{\section{\LR{\textamharic{ሱራቱ አንነስር -}  \RL{سوره  النصر}}}}
+\begin{longtable}{%
+  @{}
+    p{.5\textwidth}
+  @{~~~~~~~~~~~~~}||
+    p{.5\textwidth}
+    @{}
+}
+\nopagebreak
+  بِسمِ ٱللَّهِ ٱلرَّحمَـٰنِ ٱلرَّحِيمِ\\
+  إِذَا جَآءَ نَصرُ ٱللَّهِ وَٱلفَتحُ ﴿١﴾\\
+ وَرَأَيتَ ٱلنَّاسَ يَدخُلُونَ فِى دِينِ ٱللَّهِ أَفوَاجًۭا ﴿٢﴾\\
+ فَسَبِّح بِحَمدِ رَبِّكَ وَٱستَغفِرهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا ﴿٣﴾\\
+\end{longtable} \newpage

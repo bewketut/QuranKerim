@@ -1,0 +1,19 @@
+%% License: BSD style (Berkley) (i.e. Put the Copyright owner's name always)
+%% Writer and Copyright (to): Bewketu(Bilal) Tadilo (2016-17)
+\shadowbox{\section{\LR{\textamharic{ሱራቱ አልፈለቅ -}  \RL{سوره  الفلق}}}}
+\begin{longtable}{%
+  @{}
+    p{.5\textwidth}
+  @{~~~~~~~~~~~~~}||
+    p{.5\textwidth}
+    @{}
+}
+\nopagebreak
+  بِسمِ ٱللَّهِ ٱلرَّحمَـٰنِ ٱلرَّحِيمِ\\
+\textamh{1.\ (እንዲህ) በል:-\rqt በጥዋት ንጋት ጌታ መከለል እፈልጋለሁ (እከለላለሁ)። 
+     } &  قُل أَعُوذُ بِرَبِّ ٱلفَلَقِ ﴿١﴾\\
+ مِن شَرِّ مَا خَلَقَ ﴿٢﴾\\
+ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ﴿٣﴾\\
+ وَمِن شَرِّ ٱلنَّفَّٰثَـٰتِ فِى ٱلعُقَدِ ﴿٤﴾\\
+ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ﴿٥﴾\\
+\end{longtable} \newpage
