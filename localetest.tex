@@ -1,0 +1,138 @@
+%% License: BSD style (Berkley) (i.e. Put the Copyright owner's name always)
+%% Writer and Copyright (to): Bewketu(Bilal) Tadilo (2016-17)
+\documentclass[11pt,a4paper,oneside]{l3doc}%, ,fleqn oneside]
+\usepackage[bottom=2cm,top=1.7cm,right=2cm,text={7in,10in},centering]{geometry}
+\usepackage[no-math]{fontspec}
+\usepackage{graphicx}
+\usepackage{titletoc}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{ifxetex}
+\usepackage{xcolor} % Required for specifying colors by name
+\usepackage{expl3}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{fancybox}
+\usepackage{color}
+\usepackage{calc}
+
+\usepackage[version=latest]{pgf}
+\usepackage{tikz}
+\usepackage{polyglossia}
+\usetikzlibrary{decorations.fractals,
+lindenmayersystems,
+  decorations.shapes,
+  decorations.text,
+  decorations.pathmorphing,
+  decorations.pathreplacing,
+  decorations.footprints,
+  decorations.markings,
+folding,
+  fadings,
+  shadings,
+shadows,
+  spy,
+  through,
+  turtle,
+  positioning,
+  scopes,
+arrows,arrows.spaced,shapes.arrows,shapes.geometric}
+
+%citecolor={dark-blue},urlcolor={dark-blue}
+\hypersetup{colorlinks,linkcolor={black}, pdfauthor= {Bilal Al-Gonder/x-bewketu}, pdftitle={ቁርኣን ከሪም-ኢሥላም}, pdfsubject={ቁርኣን,ኢሥላም}}
+\definecolor{shadecolor}{rgb}{1, 0, 0}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0.6pt}
+\fancyhf{}
+\fancypagestyle{plain}{
+\fancyhf{}
+\noindent
+\fancyhead[LO,RE]{
+\thisfancyput(3.1in,-4.7in){%
+\setlength{\unitlength}{1in}
+\fancyoval(7.7,10.4)}
+%\put(3.25in, -4.4in){\line(0,1){0.8\paperheight}}
+%\put(3.25in, -4.2in){\line(0,1){0.8\paperheight}}
+}
+%\fancyfoot[RE,LO]{\put(.8\textwidth,.2\textheight){\large\thepage}}
+\fancyfoot[LO]{\large\thepage\vskip-1.1cm\hskip-0.6cm}
+\fancyfoot[RE]{\vskip-1.1cm\hskip-0.6cm\large\thepage}
+}
+%\fancyhead[LE,RO]{
+%\noindent
+%\thisfancyput(3.1in,-4.5in){%
+%\setlength{\unitlength}{1in}\fancyoval(7.7,9.9)}
+%}
+%\put(-0.03\textwidth,0.01\textheight){
+%\fancyfoot[LE]{\large\thepage\vskip-1cm\hskip-0.5cm}
+%\fancyfoot[RO]{\vskip-1cm\hskip-0.5cm\large\thepage}
+%}
+
+\let\sbkslg\longtable
+\def\longtable{\vspace*{-0.9cm}\sbkslg}
+
+\newfontfamily\arabicfont[Script=Arabic, Scale = 1.5]{ArabeyesQr}%KFGQPC Uthmanic Script HAFS}% Taha Naskh}
+\newfontfamily\amharicfont[Script=Ethiopic, Scale = 1.1]{EthiopABM}
+\setdefaultlanguage[locale=default]{arabic}
+\setotherlanguage{amharic}
+\selectbackgroundlanguage{arabic}
+\newcommand{\rqt}{\rq\rq{}}
+%\newcommand{\enqt}[1]{\rq\rq{}#1\rq\rq{}}
+%newcommand{\textLANGUAGENAME}[1]{\begin{langname}#1\end{langname}}
+%%%%%%%%%%%%%%%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%Languages List to choose%%%%%%%%%%%%%
+%%albanian, amharic,\TX{arabic}, armenian, asturian,bahasai,bahasam,basque,\TX{bengali},brazil[ian],breton,bulgarian
+%%,\TX{catalan},coptic,croatian,czech,danish,divehi,\TX{dutch},\TX{english},\TX{esperanto},estonian,\TX{farsi},finnish,french,galician,\TX{german}
+%%,\TX{greek},\TX{hebrew},\TX{hindi},icelandic,interlingua,irish,italian,
+%%\TX{lao},latin,latvian,lithuanian,\TX{lsorbian},\TX{magyar},malayalam,marathi,
+%%norsk,nynorsk,occitan,polish,portuges,romanian,\TX{russian},samin,\TX{sanskrit},scottish,\TX{serbian},slovak,slovenian,spanish,swedish,\TX{syriac},tamil,telugu,\TX{thai},turkish,turkmen,ukrainian,urdu,\TX{usorbian},vietnamese,welsh
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%put here your language name: for e.g mine is amharic, i use \textamharic or..%
+%\newcommand{\textamh}[1]{\noindent\LR{\begin{amharic}#1\flushleft\end{amharic}}}
+%%if one don't mind is possible to use \textamh the f/g and use different langu.
+\newcommand{\textamh}[1]{\raggedright\LR{\noindent\textamharic{#1}}}
+%%and \flushright or \raggedleft for leftto right (ltr) langs. and
+%%the opposite for\flushleft or \raggedright for rtl e.g. urdu.%
+%%%%%%%%%%%%%%%%%%%%%
+%\newcommand{\bismillahi}{\textamh{ቢስሚላሒ አራህመኒ ራሂም}}%put bismillah in lang
+%title{} %\maketitle
+%\author{}
+\begin{document}
+
+\def\contentsname{المحتويات}
+%\Hijritoday[0] 
+%\textamharic{\today-} 
+%\hspace*{5cm}
+%%comment out (use %) qurancovr.tex -for tests%%%
+%\input{qurancovr.tex}
+\pagenumbering{}
+\tableofcontents
+%\contentsname
+%\%%%%%%%%%%%%%%%%%%%%%%%%
+%%ــٰ
+%TODO: please substitute alif which is broken by      ـٰ
+%%%%%%%%%%%%%%%%%%%%%%
+\pagestyle{plain}
+\cleardoublepage
+\pagenumbering{arabic}
+%pagestyle{fancy}
+\noindent
+\shadowbox{\section{\LR{\textamharic{ሱራቱ አልፈቲሃ - } \RL{سوره  الفاتحة}}}}
+\begin{longtable}{%
+  @{}
+    p{.5\textwidth}
+  @{~~~~~~~~~~~~~}||
+    p{.5\textwidth}
+    @{}
+}
+\textamh{1.\ ቢስሚላሂ አራህመኒ ራሂይም  } &  بِسمِ ٱللَّهِ الرَّحمَـٰنِ الرَّحِيمِ﴿١﴾     \\
+\textamh{2.\ (ኣልሃምዱሊላሂ) ምስጋና ሁሉ ለኣላህ የአለሚን (የሰዎች፥ ጅኖች፥ ያለ ነገር ሁሉ) ጌታ   } & ٱلحَمدُ لِلَّهِ رَبِّ ٱلعَـٰلَمِينَ﴿٢﴾ \\
+\textamh{3.\ ከሁሉም በላይ ሰጪ፥ ከሁሉም በላይ ምህረተኛው   } & ٱلرَّحمَـٰنِ ٱلرَّحِيمِ﴿٣﴾   \\
+\textamh{4.\ የዛች ቀን (የፍርድ ቀን) ብቸኛ ባለቤት   } &   مَـٰلِكِ يَومِ ٱلدِّينِ ﴿٤﴾   \\
+\textamh{5.\ አንተን ብቻ እናመልካለን፤ አንተን ብቻ እርዳታ እንጠይቃለን   } &  إِيَّاكَ نَعبُدُ وَإِيَّاكَ نَستَعِينُ ﴿٥﴾   \\
+\textamh{6.\ ምራነ በቀጥተኛው (በትክክለኛው)  መንገድ   } &  ٱهدِنَا ٱلصِّرَٟطَ ٱلمُستَقِيمَ ﴿٦﴾  \\
+\textamh{7.\ የአንተን ፀጋ ያደረግክላቸውን (ሰዎች)  መንገድ፥ የአንተን ቁጣ እንዳተርፉት (እንደይሁዶች) ሳይሆን ፥እንደሳቱትም (እንደክርስቲያኖች) ሳይሆን } &   صِرَٟطَ ٱلَّذِينَ أَنعَمتَ عَلَيهِم غَيرِ ٱلمَغضُوبِ عَلَيهِم وَلَا ٱلضَّآلِّينَ ﴿٧﴾ \end{longtable} 
+\clearpage
+\input{quranchpx/2.tex}
+\end{document}
