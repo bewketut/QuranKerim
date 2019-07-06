@@ -1,0 +1,80 @@
+%% License: BSD style (Berkley) (i.e. Put the Copyright owner}s name always)
+%% Writer and Copyright (to): Bewketu(Bilal) Tadilo (2016-17)
+\documentclass[11pt,a4paper,oneside]{l3doc}%, ,fleqn oneside]
+\usepackage[bottom=2cm, top=2cm, right=2cm, text={7in,10in}, centering]{geometry}
+\usepackage{graphicx}
+%\usepackage{cmap}
+%\usepackage{ethiop}
+\usepackage[no-math]{fontspec}
+\usepackage[RTLdocument]{bidi}
+%usepackage{titletoc}
+%\usepackage{expl3}
+\usepackage{longtable}
+%\usepackage{etharab}
+
+\newfontfamily\arabicfont[Script=Arabic, Scale = 1.5]{mequran}%KFGQPC Uthmanic Script HAFS}% Taha Naskh}
+%\newfontfamily\arabicfonttt[Script = Arabic, Scale = 1.5]{Amiri}%KFGQPC Uthmanic Script HAFS}% Taha Naskh}
+\newfontfamily\amharicfont[Script = Ethiopic, Scale = 1.1]{Abyssinica SIL}
+\setmainfont{mequran}
+
+%\SetAllahWithAlif
+
+\newcommand{\textamh}[1]{\setRL\amharicfont #1}
+\newcommand{\textarabb}[1]{\arabicfont #1}
+%\newcommand{\textamh}[1]{\noindent\raggedright\LR{\textamharic{#1}}}
+%\newcommand{\textamhsec}[1]{\begin{amharic} #1 \end{amharic}}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+%\newcommand{\textamharic}[1]{{\eth #1}}
+%\renewcommand{\footrule}{\color{black}7pt}
+\renewcommand{\footrulewidth}{0.6pt}
+\renewcommand{\footrule}{{\color{gray}%
+\vskip-\footruleskip\vskip-\footrulewidth
+\hrule width\textwidth  height\footrulewidth\vskip\footruleskip}}
+
+\fancypagestyle{plain}{
+\fancyhf{}
+\noindent
+\fancyhead[LO,RE]{
+\thisfancyput(3.1in,-4.5in){%
+\setlength{\unitlength}{1in}
+\fancyoval(7.7,9.9)}
+%\put(3.25in, -4.4in){\line(0,1){0.8\paperheight}}
+%\put(3.25in, -4.2in){\line(0,1){0.8\paperheight}}
+}
+%\fancyfoot[RE,LO]{\put(.8\textwidth,.2\textheight){\large\thepage}}
+\fancyfoot[LO]{\large\thepage\vskip-1.1cm\hskip-0.6cm}
+\fancyfoot[RE]{\vskip-1.1cm\hskip-0.6cm\large\thepage}
+}
+%\DeclareFixedFont{\Oarb}{LAE}{OmegaArabicBold}{m}{n}{8mm}
+
+\begin{document}
+%\input{mqcover.tex}
+%\Hijritoday[0] 
+%\textamh{\today-} 
+\pagenumbering{}
+\tableofcontents{}
+%\%%%%%%%%%%%%%%%%%%%%%%%%
+%TODO: please substitute alif which is broken by      ـٰ
+%%%%%%%%%%%%%%%%%%%%%%
+\cleardoublepage
+\pagestyle{plain}  
+\pagenumbering{arabic}
+%\noindent\shadowbox{\section{\textLR{{\eth ሱራቱ አልፈቲሃ - }} سوره  الفاتحة}}
+\noindent\begin{longtable}{%
+  @{}
+  p{0.5\textwidth}
+  @{~~~~~~~~~~~~}
+	||
+  p{0.5\textwidth}
+    @{}
+}
+\textamh{1.\ ቢስሚላሂ አራህመኒ ራሂይም   } & \textarabb{ بِسْمِ ٱللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ﴿١﴾}\\
+\textamh{2.\ (ኣልሃምዱሊላሂ) ምስጋና ሁሉ ለኣላህ የአለሚን (የሰዎች፥ ጅኖች፥ ያለ ነገር ሁሉ) ጌታ   } & \textarabb{ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ﴿٢﴾ }\\
+\textamh{3.\ ከሁሉም በላይ ሰጪ፥ ከሁሉም በላይ ምህረተኛው   } & \textarabb{ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ﴿٣﴾  } \\
+\textamh{4.\ የዛች ቀን (የፍርድ ቀን) ብቸኛ ባለቤት   } &   \textarabb{مَـٰلِكِ يَوْمِ ٱلدِّينِ ﴿٤﴾ }  \\
+\textamh{5.\ አንተን ብቻ እናመልካለን፤ አንተን ብቻ እርዳታ እንጠይቃለን   } & \textarabb{ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾  } \\
+\textamh{6.\ ምራነ በቀጥተኛው (በትክክለኛው)  መንገድ   } & \textarabb{ٱهْدِنَا ٱلصِّرَٟطَ ٱلْمُسْتَقِيمَ ﴿٦﴾}  \\
+\textamh{7.\ የአንተን ፀጋ ያደረግክላቸውን (ሰዎች)  መንገድ፥ የአንተን ቁጣ እንዳተርፉት (እንደይሁዶች) ሳይሆን ፥እንደሳቱትም (እንደክርስቲያኖች) ሳይሆን } &  \textarabb{ صِرَٟطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ ﴿٧﴾ }
+\end{longtable}
+\end{document}
