@@ -8,8 +8,8 @@ Eric Raymond-Unix Programmer and Philosopher- has one rule of programming he cal
 --they are disturbing about the 7th day..
 as Qura'an says "those who transgressed against the Sabat..."
 Then after there is another big burden...why did Abssiynia changed its name to what looks like "a disturbance about rest" e-sabat or (ethiopia)...that the rythmical origin of the word ethiopia is e-Sabat (no-Sabat e-no)...why do Abysinnian Esiobiats are living like monkeys and apes...and live in low and filthy status)
---case 2:they are led astray to "disturbing about rest" or the Sabat
-Conclusion:-I am Abyssinian but not Sabat disturber (or E-Sabat e-thiolian). Muslims in reign of Haile Selassie the 1st were called "people who live in Ethiopia" but not Ethiopians.
+--case 2:they are led astray to "disturbing about rest" or the Sabat.
+Conclusion:-I am Abyssinian but not Sabat disturber (or E-Sabat e-thiopian). Muslims in reign of Haile Selassie the 1st were called "people who live in Ethiopia" but not Ethiopians.
 Have they known Allah or do they have assurance from Allah that they do not get punished(get the wages for the deeds of their fathers and theirs). Many errors and evil knots done by fathers of a generation that has been done cannot be corrected/untied because as the Qura'an says the people always say we are in this because our fathers were in it (could be religion).
 
 Ramadan Kerim!!!!
