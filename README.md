@@ -1,6 +1,6 @@
 A word for this Ramadan Kerim(1443-14 Ramadan, 1443)- "altheena atedew fi sabati qulna kunu qiradetan khassieen" -
  those (jews and christians) who trangressed against the Sabat we said to them (cursed them)"be apes and accursed filth".
-the except of exceptions
+the except of exceptions --and a bit of joke
 ----------------------------------
 I have to start from myself and my high school life in 7th day adventist church boarding school (from 1998-2001). My german educated old mentor (who claimed to have translated the book -"the great contoversy" by Ellen G. White of which she was one of the founders of 7th day advetist church-into Amharic.) (they claim she was deaf and blind). This personal go between person with my Swiss sponsors/the mentor attached his support to me being/converting to 7th day adventist follower which I did because it was no big problem. 
 Eric Raymond-Unix Programmer and Philosopher- has one rule of programming he calls "the except of exceptions" as there is no god but God. Keeping the story short the 7th day adventist was a noise of Sabat(the 7th day)...
