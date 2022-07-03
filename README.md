@@ -1,5 +1,4 @@
-
-#Qura'an Kerim
+# Qura'an Kerim:-https://github.com/bewketut/QuranKerim/raw/master/eyquranABM.pdf
 -----------------------------------------
 For All languages the package polyglossia supports
 -----------------------------------------
@@ -18,7 +17,7 @@ Then you can proceed further.
 https://disk.yandex.com/d/hguWgHGh3KU59v
 
 **To produce one surah alone use before sections \setcounter{secnumdepth}{surahnumber}**
-#TODO: border art using tikz<br/>
+# TODO: border art using tikz<br/>
 
 The main LaTeX package used here (You can see myquran00.tex for reference) is polyglossia.
 Using the eyquranABM.tex (or myquran00.tex) one can modify the document to output into a different language setup-list of lang.s on page 4 in the [Polyglossia Manual](http://planethio.com/polyglossia.pdf).
@@ -27,11 +26,12 @@ Using the eyquranABM.tex (or myquran00.tex) one can modify the document to outpu
 2. Make sure you select the font of choice as in- main.tex (or myquran00/2.tex);<br/>
 3. Run <it>xelatex eyquranabm.tex </it> (or myquran02.tex) shell/command promp (or using ghostview-windows) 
 
-##OBJECTIVE
+# OBJECTIVE
 This is so that people can have their own offline use and is to decrease the use of Internet and its related current problems. One can write a facebook comment but cannot help themselves write a single aya on computer that they can later use . HUMANS ARE NOT KHALIDIN. They wear/end/last. 
-##EMAIL CONTRIBUTION:
+# EMAIL CONTRIBUTION:
 bewketut@gmail.com
-A word for this Ramadan Kerim(1443-14 Ramadan, 1443)- "altheena atedew fi sabati qulna kunu qiradetan khassieen" -
+# A word for this Ramadan Kerim(1443-14 Ramadan, 1443) 
+"altheena atedew fi sabati qulna kunu qiradetan khassieen" -
  those (jews and christians) who trangressed against the Sabat we said to them (cursed them)"be apes and accursed filth".
 the except of exceptions --and a bit of joke
 ----------------------------------
@@ -47,5 +47,5 @@ Have they known Allah or do they have assurance from Allah that they do not get 
 
 Ramadan Kerim!!!!
 
---Bewketu(bts)/or(by Islamic Nome de guerre -Bilal al-habeshi-given to me in my stay in Sydney to make easy for aussies to say my name)
+--Bewket(bts)/or(--by Islamic Nome de guerre -Bilal al-habeshi-given to me during my stay in Sydney to make it easy for aussies to pronounce my name)
  
