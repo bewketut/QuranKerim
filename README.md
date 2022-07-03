@@ -28,8 +28,7 @@ Using the eyquranABM.tex (or myquran00.tex) one can modify the document to outpu
 3. Run <it>xelatex eyquranabm.tex </it> (or myquran02.tex) shell/command promp (or using ghostview-windows) 
 
 ##OBJECTIVE
-
-This is so that people can have their own offline use and is to decrease the use of Internet and its related current problems. One can write a facebook comment but cannot help himself write a single aya on computer that he can use later. HUMANS ARE NOT KHALIDIN. They wear/end/last. 
+This is so that people can have their own offline use and is to decrease the use of Internet and its related current problems. One can write a facebook comment but cannot help themselves write a single aya on computer that they can later use . HUMANS ARE NOT KHALIDIN. They wear/end/last. 
 ##EMAIL CONTRIBUTION:
 bewketut@gmail.com
 A word for this Ramadan Kerim(1443-14 Ramadan, 1443)- "altheena atedew fi sabati qulna kunu qiradetan khassieen" -
