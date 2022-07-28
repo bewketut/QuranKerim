@@ -1,4 +1,4 @@
-# Qura'an Kerim:-https://github.com/bewketut/QuranKerim/raw/master/eyquranABM.pdf
+# Qura'an Kerim:-
 -----------------------------------------
 For All languages the package polyglossia supports
 -----------------------------------------
